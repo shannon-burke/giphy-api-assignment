@@ -2,6 +2,7 @@
 buttonsArray = [];
 
 
+
 //on click function to push the user input to buttonsArray
 $("#giphy-submit-button").on("click", function (event) {
     event.preventDefault();
